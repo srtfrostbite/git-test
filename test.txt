@@ -3,3 +3,6 @@ salam donya!
 Khubi?
 
 che khabar?
+
+
+new file = info.txt
